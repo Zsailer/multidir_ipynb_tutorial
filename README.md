@@ -2,6 +2,8 @@
 
 This repo contains IPython notebooks that demostrate how the new web services and URL scheme work for multidirectory support.
 
+Its important to keep in mind that this is still in the development phase. There is currently a PR open on the [ipython/ipython](https://github.com/ipython/ipython) repository for this branch and is still under review.
+
 The current branch for this version of IPython is found [here.](https://github.com/Zsailer/ipython/tree/multidir)
 
 ###Steps to begin testing this feature
