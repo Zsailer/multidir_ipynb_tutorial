@@ -7,8 +7,8 @@ The current branch for this version of IPython is found [here.](https://github.c
 ###Steps to begin testing this feature
 To test this service, checkout this branch and download this repository. The notebooks in the root directory tell the story behind designing a multi-directory IPython web-service. You can view them on NBViewer below.
 
-* [Multi-directory IPython notebook](https://raw.github.com/Zsailer/multidir_ipynb_tutorial/master/Multi-directory%20IPython%20notebook.ipynb)
-* [Web service design](https://raw.github.com/Zsailer/multidir_ipynb_tutorial/master/Web%20service%20design.ipynb)
+* [Multi-directory IPython notebook](http://nbviewer.ipython.org/urls/raw.github.com/Zsailer/multidir_ipynb_tutorial/master/Multi-directory%2520IPython%2520notebook.ipynb)
+* [Web service design](https://nbviewer.ipython.org/urls/raw.github.com/Zsailer/multidir_ipynb_tutorial/master/Web%20service%20design.ipynb)
 
 Go ahead and try to navigate through your directories! 
 
